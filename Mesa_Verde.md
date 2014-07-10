@@ -4,6 +4,7 @@
 ### Arrive: 
 
 ### Cis: 
+
     *Cliff Palace:	
         desc: habitas troglodytes le plus gd d'amerique du nord
     *Spruce Tree House:
@@ -20,6 +21,7 @@
     *Mesa top loop: 
         desc : route en voiture 6km, pour voir et atteindre plusieur sites
 ### Liens
+
 	* http://www.routard.com/guide_voyage_lieu/4825-mesa_verde_national_park.htm ( photos )
 	* http://www.routard.com/guide_voyage_lieu/11014-cliff_palace.htm ( cliff Palace )
     * http://www.routard.com/guide_voyage_lieu/17762-spruce_tree_house.htm ( Spruce )
@@ -36,3 +38,4 @@
     6. go hotel **+30min**
 
 Rmqs: DEAD HORSE ??? pas la mm region
+*This text will be italic*
